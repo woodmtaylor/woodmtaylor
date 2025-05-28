@@ -1,8 +1,6 @@
 # 💻⚡
 
-I'm a backend developer - building robust, scalable database systems
-
-Recent TAMUCT graduate with a CS degree
+Backend Developer | Recent Graduate
 
 <div align="center">
 
