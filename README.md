@@ -1,7 +1,5 @@
 # 💻⚡
 
-Backend Developer | Recent Graduate
-
 <div align="center">
 
 |![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woodmtaylor&theme=dark)|
