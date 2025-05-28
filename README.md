@@ -1,10 +1,10 @@
-<div align="center">
-
 # 💻⚡
 
 I'm a backend developer - building robust, scalable database systems
 
 Recent TAMUCT graduate with a CS degree
+
+<div align="center">
 
 |![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woodmtaylor&theme=dark)|
 |------|
